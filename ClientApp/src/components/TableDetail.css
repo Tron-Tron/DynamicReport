@@ -1,0 +1,11 @@
+.container-td {
+  display: flex;
+  height: 100%;
+  padding-bottom: 10px;
+}
+.container-td-left {
+  flex: 50;
+}
+.container-td-right {
+  flex: 50;
+}

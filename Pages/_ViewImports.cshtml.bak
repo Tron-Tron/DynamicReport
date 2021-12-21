@@ -1,0 +1,3 @@
+@using DynamicReport
+@namespace DynamicReport.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers

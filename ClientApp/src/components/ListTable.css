@@ -1,0 +1,4 @@
+.table-list li:hover {
+  background-color: #00685ba6;
+  cursor: pointer;
+}
